@@ -7,7 +7,7 @@
 # Last Modified:    1st July 2016
 
 # Imports Section
-from bs4 import BeautifulSoup
+from BeautifulSoup import BeautifulSoup
 import re
 import mechanize
 import html2text
